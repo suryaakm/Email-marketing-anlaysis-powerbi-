@@ -20,7 +20,7 @@ the process of analyzing an email marketing dataset using Microsoft Power BI. We
 
 # Acknowledgment
 
-Source Dataset 
+Source Dataset : Kaggle’s Email marketing Dataset
 
 # Dashboard Preview
 ![WhatsApp Image 2025-01-29 at 14 17 13_7a19884e](https://github.com/user-attachments/assets/b5be111b-fde8-4d3d-9e78-ddec46629c14)
